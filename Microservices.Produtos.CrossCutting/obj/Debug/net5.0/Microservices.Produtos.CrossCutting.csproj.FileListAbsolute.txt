@@ -1,0 +1,17 @@
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\bin\Debug\net5.0\Microservices.Produtos.CrossCutting.deps.json
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\bin\Debug\net5.0\Microservices.Produtos.CrossCutting.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\bin\Debug\net5.0\Microservices.Produtos.CrossCutting.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\bin\Debug\net5.0\Microservices.Produtos.Domain.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\bin\Debug\net5.0\Microservices.Produtos.Infrastructure.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\bin\Debug\net5.0\Microservices.Produtos.Domain.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\bin\Debug\net5.0\Microservices.Produtos.Infrastructure.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.csproj.AssemblyReference.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.AssemblyInfoInputs.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.AssemblyInfo.cs
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.csproj.CoreCompileInputs.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.csproj.CopyComplete
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\refint\Microservices.Produtos.CrossCutting.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\Microservices.Produtos.CrossCutting.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.CrossCutting\obj\Debug\net5.0\ref\Microservices.Produtos.CrossCutting.dll

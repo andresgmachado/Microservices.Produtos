@@ -1,0 +1,12 @@
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\bin\Debug\net5.0\Microservices.Produtos.Domain.deps.json
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\bin\Debug\net5.0\Microservices.Produtos.Domain.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\bin\Debug\net5.0\Microservices.Produtos.Domain.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\Microservices.Produtos.Domain.csproj.AssemblyReference.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\Microservices.Produtos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\Microservices.Produtos.Domain.AssemblyInfoInputs.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\Microservices.Produtos.Domain.AssemblyInfo.cs
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\Microservices.Produtos.Domain.csproj.CoreCompileInputs.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\Microservices.Produtos.Domain.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\refint\Microservices.Produtos.Domain.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\Microservices.Produtos.Domain.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Domain\obj\Debug\net5.0\ref\Microservices.Produtos.Domain.dll
