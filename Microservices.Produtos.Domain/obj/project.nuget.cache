@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uUMRCTzjk1s6dIbSLjpHnSD9lsH0a/jE1FdZfQu7PsqesaRMLNNbCgQTEAbndUZO5BOJJY5HOqijmr+8IyuLxA==",
+  "dgSpecHash": "HEncdofJWTIOqzlYj1/hPkv/QmGSP7IUJheTp6H0eJ+b9e8rrbczpCj2SkNWPeZFtHvlqq4Npa/3AZb64rDjFA==",
   "success": true,
   "projectFilePath": "C:\\projetos\\PDI\\Microservices.Produtos\\Microservices.Produtos.Domain\\Microservices.Produtos.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
   ],
   "logs": [
     {
