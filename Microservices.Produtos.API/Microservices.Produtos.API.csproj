@@ -17,10 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <ProjectReference Include="..\Microservices.Produtos.Application\Microservices.Produtos.Application.csproj" />
     <ProjectReference Include="..\Microservices.Produtos.CrossCutting\Microservices.Produtos.CrossCutting.csproj" />
     <ProjectReference Include="..\Microservices.Produtos.Domain\Microservices.Produtos.Domain.csproj" />
   </ItemGroup>

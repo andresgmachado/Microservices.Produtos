@@ -74,3 +74,5 @@ C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\obj\Debug\net5
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\obj\Debug\net5.0\Microservices.Produtos.API.pdb
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\obj\Debug\net5.0\Microservices.Produtos.API.genruntimeconfig.cache
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\obj\Debug\net5.0\ref\Microservices.Produtos.API.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microservices.Produtos.Application.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microservices.Produtos.Application.pdb
