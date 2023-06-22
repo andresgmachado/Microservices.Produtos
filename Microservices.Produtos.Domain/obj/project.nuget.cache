@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dOJV+PNwNKI5AZPNVnsN7lUSajNFRxSCVuDp4XeykucST3NNX3pPpdVbSOkj2S0k2BrmKQK3yUvJjaomOU3jWw==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\PDI\\Microservices.Produtos\\Microservices.Produtos.Domain\\Microservices.Produtos.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.sistemahiper.com.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
