@@ -1,0 +1,15 @@
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\bin\Debug\net5.0\Microservices.Produtos.Application.deps.json
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\bin\Debug\net5.0\Microservices.Produtos.Application.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\bin\Debug\net5.0\Microservices.Produtos.Application.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\bin\Debug\net5.0\Microservices.Produtos.Domain.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\bin\Debug\net5.0\Microservices.Produtos.Domain.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.csproj.AssemblyReference.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.AssemblyInfoInputs.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.AssemblyInfo.cs
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.csproj.CoreCompileInputs.cache
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.csproj.CopyComplete
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\refint\Microservices.Produtos.Application.dll
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\Microservices.Produtos.Application.pdb
+C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.Application\obj\Debug\net5.0\ref\Microservices.Produtos.Application.dll

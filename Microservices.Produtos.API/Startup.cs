@@ -1,3 +1,5 @@
+using MediatR;
+using Microservices.Produtos.CrossCutting;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -10,6 +12,7 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace Microservices.Produtos.API
@@ -28,6 +31,13 @@ namespace Microservices.Produtos.API
         {
 
             services.AddControllers();
+
+            services.AddMediatR(cfg => {
+                cfg.RegisterServicesFromAssembly(typeof(Program).Assembly);
+            });
+
+            services.AddInfrastructure(Configuration);
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Microservices.Produtos.API", Version = "v1" });
