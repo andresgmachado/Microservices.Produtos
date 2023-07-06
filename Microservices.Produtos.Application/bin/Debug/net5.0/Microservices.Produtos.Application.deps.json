@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "Microservices.Produtos.Application/1.0.0": {
         "dependencies": {
-          "MediatR": "8.0.1",
+          "MediatR": "8.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0",
           "Microservices.Produtos.Domain": "1.0.0"
         },
@@ -16,17 +16,17 @@
           "Microservices.Produtos.Application.dll": {}
         }
       },
-      "MediatR/8.0.1": {
+      "MediatR/8.0.0": {
         "runtime": {
           "lib/netstandard2.0/MediatR.dll": {
-            "assemblyVersion": "8.0.1.0",
-            "fileVersion": "8.0.1.0"
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.0.0"
           }
         }
       },
       "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
         "dependencies": {
-          "MediatR": "8.0.1",
+          "MediatR": "8.0.0",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0"
         },
         "runtime": {
@@ -46,7 +46,7 @@
       },
       "Microservices.Produtos.Domain/1.0.0": {
         "dependencies": {
-          "MediatR": "8.0.1",
+          "MediatR": "8.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0"
         },
         "runtime": {
@@ -61,12 +61,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "MediatR/8.0.1": {
+    "MediatR/8.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
-      "path": "mediatr/8.0.1",
-      "hashPath": "mediatr.8.0.1.nupkg.sha512"
+      "sha512": "sha512-cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
+      "path": "mediatr/8.0.0",
+      "hashPath": "mediatr.8.0.0.nupkg.sha512"
     },
     "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
       "type": "package",

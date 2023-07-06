@@ -8,11 +8,9 @@ C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microservices.Produtos.API.pdb
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Humanizer.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\MediatR.dll
-C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\MediatR.Contracts.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
-C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -20,7 +18,6 @@ C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\projetos\PDI\Microservices.Produtos\Microservices.Produtos.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll

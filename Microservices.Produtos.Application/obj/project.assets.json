@@ -2,17 +2,13 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "MediatR/8.0.1": {
+      "MediatR/8.0.0": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/MediatR.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/MediatR.dll": {}
         },
         "runtime": {
-          "lib/netstandard2.0/MediatR.dll": {
-            "related": ".xml"
-          }
+          "lib/netstandard2.0/MediatR.dll": {}
         }
       },
       "MediatR.Extensions.Microsoft.DependencyInjection/8.0.0": {
@@ -45,7 +41,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "MediatR": "8.0.1",
+          "MediatR": "8.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "8.0.0"
         },
         "compile": {
@@ -58,19 +54,16 @@
     }
   },
   "libraries": {
-    "MediatR/8.0.1": {
-      "sha512": "nqtv05FHNNNLmEv4QN9pRtmSLa0bnDPciOjLKpA/k5FZIVS72vPyY3/1lHQ9V/dcQSMA5ZLig62SyRk2cSKNBA==",
+    "MediatR/8.0.0": {
+      "sha512": "cYSDJ2b/dIiwTLW/ZW/SQcXq9I3WF6KR4D0KN4hxWR08tZqcvcVS1bQXZbsANdQdTQfxx+ZFp5WkHLMyeoR5Zw==",
       "type": "package",
-      "path": "mediatr/8.0.1",
+      "path": "mediatr/8.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "gradient_128x128.png",
         "lib/net461/MediatR.dll",
-        "lib/net461/MediatR.xml",
         "lib/netstandard2.0/MediatR.dll",
-        "lib/netstandard2.0/MediatR.xml",
-        "mediatr.8.0.1.nupkg.sha512",
+        "mediatr.8.0.0.nupkg.sha512",
         "mediatr.nuspec"
       ]
     },
@@ -107,7 +100,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "MediatR >= 8.0.1",
+      "MediatR >= 8.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 8.0.0",
       "Microservices.Produtos.Domain >= 1.0.0"
     ]
@@ -165,7 +158,7 @@
         "dependencies": {
           "MediatR": {
             "target": "Package",
-            "version": "[8.0.1, )"
+            "version": "[8.0.0, )"
           },
           "MediatR.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
