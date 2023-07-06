@@ -1,5 +1,8 @@
 using MediatR;
+using Microservices.Produtos.Application.Services.Commands;
+using Microservices.Produtos.Application.Services.Queries;
 using Microservices.Produtos.CrossCutting;
+using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -31,12 +34,14 @@ namespace Microservices.Produtos.API
         {
 
             services.AddControllers();
-
-            services.AddMediatR(cfg => {
-                cfg.RegisterServicesFromAssembly(typeof(Program).Assembly);
-            });
-
+            services.AddMediatR(Assembly.GetExecutingAssembly());
             services.AddInfrastructure(Configuration);
+
+            services.AddMediatR(typeof(CreateProdutoCommand).GetTypeInfo().Assembly);
+            services.AddMediatR(typeof(DeleteProdutoByIdCommand).GetTypeInfo().Assembly);
+            services.AddMediatR(typeof(UpdateProdutoCommand).GetTypeInfo().Assembly);
+            services.AddMediatR(typeof(GetAllProdutosQuery).GetTypeInfo().Assembly);
+            services.AddMediatR(typeof(GetProdutoByIdQuery).GetTypeInfo().Assembly);
 
             services.AddSwaggerGen(c =>
             {

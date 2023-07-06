@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ML/7hhihARAEZxqYp0exFCfqbEA6l856CYXjtVjDyT5Ngr5r/lFsx40nImMzS6BC1lmw65rYHTckDTfbIzeHkA==",
+  "dgSpecHash": "dOrgyt1vi/UzNmYo0aIVqeFPXQ3KPUHvQLE2yisGmfyt7GTEDdW2m9CDo6vkbvvIHGnTfZ6hV/iSJA4stQWqeg==",
   "success": true,
   "projectFilePath": "C:\\projetos\\PDI\\Microservices.Produtos\\Microservices.Produtos.Application\\Microservices.Produtos.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
   ],
